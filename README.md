@@ -92,6 +92,7 @@ Repository | Description
 [Security Cheatsheets](https://github.com/OWASP/CheatSheetSeries) | OWASP Cheat Sheet Series for application security
 [Shell](https://github.com/alebcay/awesome-shell) | List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 [Suricata](https://github.com/satta/awesome-suricata) | Suricata IDS/IPS and network security monitoring resources
+[Termux NetHunter](https://github.com/jorexdeveloper/termux-nethunter) | Install Kali NetHunter in Termux without root access
 [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 [Tor](https://github.com/polycarbohydrate/awesome-tor) | Resources about the Tor network and anonymous communication
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
